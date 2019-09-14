@@ -1,0 +1,6 @@
+set(voxblox_tango_interface_SETUP_PY_VERSION "0.0.0")
+set(voxblox_tango_interface_SETUP_PY_SCRIPTS "")
+set(voxblox_tango_interface_SETUP_PY_PACKAGES "voxblox_tango_interface")
+set(voxblox_tango_interface_SETUP_PY_PACKAGE_DIRS "python/voxblox_tango_interface")
+set(voxblox_tango_interface_SETUP_PY_MODULES "")
+set(voxblox_tango_interface_SETUP_PY_MODULE_DIRS "")

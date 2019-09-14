@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpangolin_catkin.so -o /home/best_jill_forever/catkin_ws/devel/lib/libpangolin_catkin.so CMakeFiles/pangolin_catkin.dir/src/empty.cpp.o 

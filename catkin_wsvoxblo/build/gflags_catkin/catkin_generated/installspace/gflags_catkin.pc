@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/install
+
+Name: gflags_catkin
+Description: Description of gflags_catkin
+Version: 2.1.2
+Cflags: -I/home/best_jill_forever/catkin_ws/install/include
+Libs: -L/home/best_jill_forever/catkin_ws/install/lib -lgflags
+Requires: 

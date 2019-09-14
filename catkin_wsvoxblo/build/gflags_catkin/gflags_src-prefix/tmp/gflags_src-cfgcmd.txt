@@ -1,0 +1,1 @@
+cmd='cd;../gflags_src;&&;cmake;.;-DCMAKE_INSTALL_PREFIX:PATH=/home/best_jill_forever/catkin_ws/devel;-DBUILD_SHARED_LIBS:BOOL=true;-DGFLAGS_NAMESPACE:STRING=google;-DCMAKE_BUILD_TYPE:STRING=Release'

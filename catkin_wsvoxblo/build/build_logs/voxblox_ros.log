@@ -1,0 +1,143 @@
+[[36mvoxblox_ros[0m] [1m[34m==>[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros/build_env.sh /usr/bin/make cmake_check_build_system[0m' [30m[1min[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros[0m'[0m
+-- Using CATKIN_DEVEL_PREFIX: /home/best_jill_forever/catkin_ws/devel
+-- Using CMAKE_PREFIX_PATH: /home/best_jill_forever/catkin_ws/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/best_jill_forever/catkin_ws/devel;/opt/ros/kinetic
+-- Using PYTHON_EXECUTABLE: /usr/bin/python
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/best_jill_forever/catkin_ws/build/voxblox_ros/test_results
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.11
+-- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+-- Marking SHARED_LIBRARY "voxblox_ros" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "voxblox_eval" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "tsdf_server" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "esdf_server" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "intensity_server" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "simulation_eval" of package "voxblox_ros" for installation
+-- Marking EXECUTABLE "visualize_tsdf" of package "voxblox_ros" for installation
+-- Marking HEADER FILES in "include" folder of package "voxblox_ros" for installation
+-- Marking SHARED CONTENT FOLDER "launch" of package "voxblox_ros" for installation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/best_jill_forever/catkin_ws/build/voxblox_ros
+[[36mvoxblox_ros[0m] [32m<==[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros/build_env.sh /usr/bin/make cmake_check_build_system[0m' finished with return code '[1m0[0m'[0m
+[[36mvoxblox_ros[0m] [1m[34m==>[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros/build_env.sh /usr/bin/make --jobserver-fds=3,6 -j[0m' [30m[1min[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros[0m'[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[  0%] Built target nav_msgs_generate_messages_py
+[  0%] Built target nav_msgs_generate_messages_lisp
+[  0%] Built target voxblox_msgs_generate_messages_py
+[  0%] Built target map_msgs_generate_messages_py
+[  0%] Built target map_msgs_generate_messages_nodejs
+[  0%] Built target map_msgs_generate_messages_lisp
+[  0%] Built target map_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target map_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target nav_msgs_generate_messages_eus
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target nav_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target voxblox_msgs_generate_messages_cpp
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target voxblox_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target voxblox_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target voxblox_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target voxblox_ros[0m
+[  5%] [32m[1mLinking CXX shared library /home/best_jill_forever/catkin_ws/devel/lib/libvoxblox_ros.so[0m
+[ 36%] Built target voxblox_ros
+[ 47%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/simulation_eval[0m
+[ 47%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/visualize_tsdf[0m
+[ 52%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/esdf_server[0m
+[ 57%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/voxblox_eval[0m
+[ 63%] Built target esdf_server
+[ 68%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/tsdf_server[0m
+[ 73%] Built target visualize_tsdf
+[ 78%] Built target simulation_eval
+[ 84%] [32m[1mLinking CXX executable /home/best_jill_forever/catkin_ws/devel/lib/voxblox_ros/intensity_server[0m
+[ 89%] Built target voxblox_eval
+[ 94%] Built target tsdf_server
+[100%] Built target intensity_server
+[[36mvoxblox_ros[0m] [32m<==[0m '[1m/home/best_jill_forever/catkin_ws/build/voxblox_ros/build_env.sh /usr/bin/make --jobserver-fds=3,6 -j[0m' finished with return code '[1m0[0m'[0m

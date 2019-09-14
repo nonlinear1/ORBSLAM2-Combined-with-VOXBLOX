@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/CMakeFiles/orb_slam_2_src-complete.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-install.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-mkdir.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-download.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-update.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-patch.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-configure.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src-stamp/orb_slam_2_src-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"orb_slam_2_src"
+		],
+		"name" : "orb_slam_2_src"
+	}
+}

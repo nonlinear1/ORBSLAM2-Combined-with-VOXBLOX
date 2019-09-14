@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/devel
+
+Name: eigen_catkin
+Description: Description of eigen_catkin
+Version: 3.2.12
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/best_jill_forever/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/CMakeFiles/gflags_src"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/CMakeFiles/gflags_src.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/CMakeFiles/gflags_src-complete.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-install.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-mkdir.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-download.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-update.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-patch.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-configure.rule"
+		},
+		{
+			"file" : "/home/best_jill_forever/catkin_ws/build/gflags_catkin/gflags_src-prefix/src/gflags_src-stamp/gflags_src-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gflags_src"
+		],
+		"name" : "gflags_src"
+	}
+}

@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/install
+
+Name: voxblox_tango_interface
+Description: Description of voxblox_tango_interface
+Version: 0.0.0
+Cflags: -I/home/best_jill_forever/catkin_ws/install/include
+Libs: -L/home/best_jill_forever/catkin_ws/install/lib -lvoxblox_tango_interface_proto -lvoxblox_tango_interface /usr/lib/x86_64-linux-gnu/libprotobuf.so
+Requires: gflags_catkin voxblox

@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/devel
+
+Name: minkindr_conversions
+Description: Description of minkindr_conversions
+Version: 0.0.0
+Cflags: -I/home/best_jill_forever/catkin_ws/src/minkindr_ros/minkindr_conversions/include
+Libs: -L/home/best_jill_forever/catkin_ws/devel/lib 
+Requires: eigen_conversions geometry_msgs glog_catkin gflags_catkin minkindr tf tf_conversions

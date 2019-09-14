@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<launch>
+
+  <node pkg="orb_slam_2_ros" name="orb_slam_2_ros_node" type="orb_slam_2_ros_node" output="screen" >
+    <param name="interface_type" value="rgbd" />
+    <param name="vocabulary_file_path" value="/home/best_jill_forever/catkin_ws/build/orb_slam_2_catkin/orb_slam_2_src-prefix/src/orb_slam_2_src/Vocabulary/ORBvoc.txt" />
+    <param name="settings_file_path" value="/home/best_jill_forever/kinectv1.yaml" />
+    <!-- optional parameters -->
+    <!-- set frames here
+    <param name="verbose" value="" />
+    <param name="frame_id" value="" />
+    <param name="child_frame_id" value="" />
+	-->
+  
+</node>
+
+</launch>

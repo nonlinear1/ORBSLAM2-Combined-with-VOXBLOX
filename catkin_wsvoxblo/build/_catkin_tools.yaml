@@ -1,0 +1,6 @@
+devel_space: /home/best_jill_forever/catkin_ws/devel
+install: false
+install_space: /home/best_jill_forever/catkin_ws/install
+profile: default
+source_space: /home/best_jill_forever/catkin_ws/src
+workspace: /home/best_jill_forever/catkin_ws

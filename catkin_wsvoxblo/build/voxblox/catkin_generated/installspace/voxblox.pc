@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/install
+
+Name: voxblox
+Description: Description of voxblox
+Version: 0.0.0
+Cflags: -I/home/best_jill_forever/catkin_ws/install/include
+Libs: -L/home/best_jill_forever/catkin_ws/install/lib -lvoxblox_proto -lvoxblox /usr/lib/x86_64-linux-gnu/libprotobuf.so
+Requires: eigen_catkin eigen_checks gflags_catkin glog_catkin minkindr

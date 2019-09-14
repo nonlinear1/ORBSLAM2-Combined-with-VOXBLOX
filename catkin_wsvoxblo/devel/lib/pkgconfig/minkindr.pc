@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/devel
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I/home/best_jill_forever/catkin_ws/src/minkindr/minkindr/include
+Libs: -L/home/best_jill_forever/catkin_ws/devel/lib 
+Requires: 

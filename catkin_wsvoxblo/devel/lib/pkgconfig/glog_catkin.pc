@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/devel
+
+Name: glog_catkin
+Description: Description of glog_catkin
+Version: 0.3.5
+Cflags: -I/home/best_jill_forever/catkin_ws/devel/include
+Libs: -L/home/best_jill_forever/catkin_ws/devel/lib -lglog
+Requires: gflags_catkin

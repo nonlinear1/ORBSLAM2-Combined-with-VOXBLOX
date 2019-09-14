@@ -1,0 +1,8 @@
+prefix=/home/best_jill_forever/catkin_ws/install
+
+Name: voxblox_msgs
+Description: Description of voxblox_msgs
+Version: 0.0.0
+Cflags: -I/home/best_jill_forever/catkin_ws/install/include
+Libs: -L/home/best_jill_forever/catkin_ws/install/lib 
+Requires: message_generation message_runtime std_msgs

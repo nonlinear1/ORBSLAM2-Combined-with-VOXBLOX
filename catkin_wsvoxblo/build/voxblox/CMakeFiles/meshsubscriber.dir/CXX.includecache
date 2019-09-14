@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/best_jill_forever/catkin_ws/src/voxblox/voxblox/src/io/meshsubscriber.cpp
+ros/ros.h
+-
+voxblox/mesh.h
+-
+string
+-
+fstream
+-
+iostream
+-
+

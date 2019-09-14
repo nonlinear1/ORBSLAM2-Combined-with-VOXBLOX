@@ -1,0 +1,14 @@
+(cl:in-package voxblox_msgs-msg)
+(cl:export '(MAX_ERROR-VAL
+          MAX_ERROR
+          MIN_ERROR-VAL
+          MIN_ERROR
+          NUM_EVALUATED_VOXELS-VAL
+          NUM_EVALUATED_VOXELS
+          NUM_IGNORED_VOXELS-VAL
+          NUM_IGNORED_VOXELS
+          NUM_OVERLAPPING_VOXELS-VAL
+          NUM_OVERLAPPING_VOXELS
+          NUM_NON_OVERLAPPING_VOXELS-VAL
+          NUM_NON_OVERLAPPING_VOXELS
+))

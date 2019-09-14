@@ -1,0 +1,51 @@
+[[36morb_slam_2_ros[0m] [1m[34m==>[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros/build_env.sh /usr/bin/make cmake_check_build_system[0m' [30m[1min[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros[0m'[0m
+[[36morb_slam_2_ros[0m] [32m<==[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros/build_env.sh /usr/bin/make cmake_check_build_system[0m' finished with return code '[1m0[0m'[0m
+[[36morb_slam_2_ros[0m] [1m[34m==>[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros/build_env.sh /usr/bin/make --jobserver-fds=3,6 -j[0m' [30m[1min[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros[0m'[0m
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[ 71%] Built target orb_slam_2_interface
+[100%] Built target orb_slam_2_ros_node
+[[36morb_slam_2_ros[0m] [32m<==[0m '[1m/home/best_jill_forever/catkin_ws/build/orb_slam_2_ros/build_env.sh /usr/bin/make --jobserver-fds=3,6 -j[0m' finished with return code '[1m0[0m'[0m
