@@ -1,0 +1,34 @@
+Remember to change the ./bashrc file.
+Add following few lines.
+
+export ROS_HOSTNAME=localhost
+export ROS_MASTER_URI=http://localhost:11311
+source ~/catkin_ws123/devel/setup.sh 
+
+
+Open 4 terminals( for primesense)
+
+ roslaunch openni2_launch openni2.launch
+ roslaunch orb_slam_2_ros run_orb_slam_2.launch
+ roslaunch voxblox_ros try.launch
+ rosrun rviz rviz
+
+# if last step use kinect,  
+# change 'roslaunch openni2_launch openni2.launch' into 'roslaunch freenect_launch freenect.launch'
+
+
+If save, open another terminal
+rosservice call /voxblox_node/generate_mesh "{}"
+
+
+#Change mesh into pcd
+cd ~/catkin_ws123/testing
+pcl_ply2pcd 1.ply 1.pcd
+./build/meshp
+
+
+#This is designed for changing voxel size
+#find file try.launch in here
+/home/hku/catkin_ws123/src/voxblox/voxblox_ros/launch/try.launch
+ <arg name="voxel_size" default="0.01"/> # This is for defining the voxel size
+ <param name="mesh_filename" value="/home/hku/catkin_ws123/testing/1.ply" />   #this is save location
