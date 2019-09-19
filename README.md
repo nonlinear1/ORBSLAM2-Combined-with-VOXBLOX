@@ -1,8 +1,8 @@
-# ORBSLAM2-Combined-with-ROS
+# ORBSLAM2-Combined-with-VOXBLOX
 
 ## Introduction
 
-This work is based on [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) and [Voxblox](https://github.com/ethz-asl/voxblox). Thanks for Rual and Helen's great work. 
+This work is based on [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2), [ORB_SLAM2_ROS](https://github.com/ethz-asl/orb_slam_2_ros) and [Voxblox](https://github.com/ethz-asl/voxblox). Thanks for Rual and Helen's great work. 
 
 Using this pipeline, you can generate real time mesh on a CPU-based PC. A demo is shown [here](https://drive.google.com/file/d/1mRL4ZOPZY6kBwtBwBSlb36tXZ1o8Qs7p/view?usp=sharing).
 
